@@ -1,0 +1,5 @@
+D:\MyWork\41_CSharpSampleCodes\ChangeLinkedList\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWork\41_CSharpSampleCodes\ChangeLinkedList\bin\Debug\ChangeLinkedList.pdb
+D:\MyWork\41_CSharpSampleCodes\ChangeLinkedList\obj\Debug\ChangeLinkedList.pdb
+D:\MyWork\41_CSharpSampleCodes\ChangeLinkedList\bin\Debug\ChangeLinkedList.exe
+D:\MyWork\41_CSharpSampleCodes\ChangeLinkedList\obj\Debug\ChangeLinkedList.exe
